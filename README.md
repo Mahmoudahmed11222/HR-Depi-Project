@@ -33,4 +33,5 @@ Human Resources Dataset Analysis — تحليل داتا الموارد البش
 
 ## Project Files & Links
 * **GitHub Repository:** [https://github.com/Mahmoudahmed11222/HR-Depi-Project]
+* **Google Drive:** [https://drive.google.com/drive/folders/1BH8bW8ID1p4_Z2QEhbZSvWiSZJBwTeoc?usp=sharing]
 * **Tableau Dashboard Link:** []
